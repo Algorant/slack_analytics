@@ -1,0 +1,14 @@
+.env
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+slackalytics.duckdb
+
+archive/
+data/
+processed_json/
+tables/
+exports/
+*.zip
